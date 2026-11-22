@@ -19,7 +19,7 @@ import type { SiteContent } from "./types";
  * technical discovery → build. Swap this one constant for the Calendly link
  * and every CTA on the page follows.
  */
-export const BOOKING_URL = "https://calendly.com/contact-dlyai/30min";
+export const BOOKING_URL = "https://calendly.com/siliconcommander/30-minute-meeting-clone";
 
 export const en: SiteContent = {
   meta: {
